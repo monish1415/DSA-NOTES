@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "0dda6628456cb95c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d43aa7bf8a1b9b9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb04f109bef17333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GRAPHS/DJIKSTRA (TREESET).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DJIKSTRA (TREESET)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cf2ab1aa4f982d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0db84873e45ccfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ea079333fcf25e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2fff919f799e1fc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a4c07cbd3c80715e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f376177cd96da43a",
+    "type": "split",
+    "children": [
+      {
+        "id": "65c32cea311a73ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5d8640df3951b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled/POSTORDER TRAVERSAL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for POSTORDER TRAVERSAL"
+            }
+          },
+          {
+            "id": "c6d58239aad2e7a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled/POSTORDER TRAVERSAL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from POSTORDER TRAVERSAL"
+            }
+          },
+          {
+            "id": "2ddbbdb532f8378c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "59216dfee055ee56",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "31bd93e64cc45894",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled/POSTORDER TRAVERSAL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of POSTORDER TRAVERSAL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fb04f109bef17333",
+  "lastOpenFiles": [
+    "GRAPHS/DJIKSTRA (PRIORITY QUEUE).md",
+    "GRAPHS/DJIKSTRA (TREESET).md",
+    "GRAPHS/TOPOLOGICAL SORT(BFS) {KAHN'S ALGO}.md",
+    "GRAPHS/TOPOLOGICAL SORT(DFS) {course schedule-II}.md",
+    "GRAPHS/DETECT CYCLE IN DIRECTED GRAPH.md",
+    "GRAPHS/EVENTUAL SAFE SPACES.md",
+    "GRAPHS/BIPARTITE GRAPH.md",
+    "GRAPHS/SURROUNDED REGIONS.md",
+    "GRAPHS/DISTANCE OF NEAREST CELL HAVING '0'.md",
+    "GRAPHS/ROTTING ORANGES.md",
+    "GRAPHS/NO.OF ISLANDS.md",
+    "GRAPHS/NO.OF PROVINCES.md",
+    "GRAPHS/KEYS AND ROOMS.md",
+    "BINARY SEARCH TREES/DELETE A NODE FROM BST.md",
+    "BINARY TREES/VERTICAL ORDER TRAVERSAL(2 COORDINATES).md",
+    "BINARY TREES/LEVEL ORDER TRAVERSAL.md",
+    "BINARY TREES/MORRIS TRAVERSAL.md",
+    "BINARY TREES/WIDTH OF BINARY TREE.md",
+    "BINARY TREES/CONSTRUCTION OF BINARY TREE.md",
+    "BINARY SEARCH TREES/VALIDATE BST.md",
+    "GRAPHS",
+    "BINARY SEARCH TREES/MAX SUM BST IN A BINARY TREE.md",
+    "BINARY SEARCH TREES/LCA IN BST.md",
+    "BINARY SEARCH TREES/KTH SMALLEST IN BST.md",
+    "BINARY SEARCH TREES/INORDER SUCCESSOR OF BST.md",
+    "BINARY SEARCH TREES/CONSTRUCT BST FROM PREORDER.md",
+    "BINARY SEARCH TREES/BST ITERATOR.md",
+    "BINARY SEARCH TREES",
+    "Untitled 1",
+    "LEVEL ORDER TRAVESAL",
+    "BINARY TREES"
+  ]
+}
