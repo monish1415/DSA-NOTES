@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRAPHS/DJIKSTRA (TREESET).md",
+                "file": "GRAPHS/PRIMS ALGORITHM (MST).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DJIKSTRA (TREESET)"
+              "title": "PRIMS ALGORITHM (MST)"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -187,7 +188,17 @@
   },
   "active": "fb04f109bef17333",
   "lastOpenFiles": [
+    "GRAPHS/CITY WITH LEAST NEI AT THRESHOLD DISTANCE.md",
+    "GRAPHS/PRIMS ALGORITHM (MST).md",
+    "GRAPHS/FLOYD-WARSHALL ALGORITHM.md",
+    "GRAPHS/BELLMAN-FORD ALGORITHM.md",
+    "BINARY TREES/MORRIS TRAVERSAL.md",
+    "GRAPHS/NUMBER OF WAYS TO ARRIVE AT DESTINATION.md",
     "GRAPHS/DJIKSTRA (PRIORITY QUEUE).md",
+    "GRAPHS/CHEAPEST FLIGHT WITH K STOPS.md",
+    "GRAPHS/PATH WITH MINIMUM EFFORT.md",
+    "BINARY TREES/CONSTRUCTION OF BINARY TREE.md",
+    "GRAPHS/ROTTING ORANGES.md",
     "GRAPHS/DJIKSTRA (TREESET).md",
     "GRAPHS/TOPOLOGICAL SORT(BFS) {KAHN'S ALGO}.md",
     "GRAPHS/TOPOLOGICAL SORT(DFS) {course schedule-II}.md",
@@ -196,24 +207,14 @@
     "GRAPHS/BIPARTITE GRAPH.md",
     "GRAPHS/SURROUNDED REGIONS.md",
     "GRAPHS/DISTANCE OF NEAREST CELL HAVING '0'.md",
-    "GRAPHS/ROTTING ORANGES.md",
     "GRAPHS/NO.OF ISLANDS.md",
     "GRAPHS/NO.OF PROVINCES.md",
     "GRAPHS/KEYS AND ROOMS.md",
     "BINARY SEARCH TREES/DELETE A NODE FROM BST.md",
     "BINARY TREES/VERTICAL ORDER TRAVERSAL(2 COORDINATES).md",
     "BINARY TREES/LEVEL ORDER TRAVERSAL.md",
-    "BINARY TREES/MORRIS TRAVERSAL.md",
     "BINARY TREES/WIDTH OF BINARY TREE.md",
-    "BINARY TREES/CONSTRUCTION OF BINARY TREE.md",
-    "BINARY SEARCH TREES/VALIDATE BST.md",
     "GRAPHS",
-    "BINARY SEARCH TREES/MAX SUM BST IN A BINARY TREE.md",
-    "BINARY SEARCH TREES/LCA IN BST.md",
-    "BINARY SEARCH TREES/KTH SMALLEST IN BST.md",
-    "BINARY SEARCH TREES/INORDER SUCCESSOR OF BST.md",
-    "BINARY SEARCH TREES/CONSTRUCT BST FROM PREORDER.md",
-    "BINARY SEARCH TREES/BST ITERATOR.md",
     "BINARY SEARCH TREES",
     "Untitled 1",
     "LEVEL ORDER TRAVESAL",
