@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRAPHS/PRIMS ALGORITHM (MST).md",
+                "file": "GRAPHS/MAKING LARGE ISLAND.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PRIMS ALGORITHM (MST)"
+              "title": "MAKING LARGE ISLAND"
             }
           }
         ]
@@ -188,10 +188,17 @@
   },
   "active": "fb04f109bef17333",
   "lastOpenFiles": [
-    "GRAPHS/CITY WITH LEAST NEI AT THRESHOLD DISTANCE.md",
-    "GRAPHS/PRIMS ALGORITHM (MST).md",
+    "GRAPHS/NO.OF ISLANDS II.md",
+    "GRAPHS/MAKING LARGE ISLAND.md",
+    "GRAPHS/NO.OF PROVINCES.md",
     "GRAPHS/FLOYD-WARSHALL ALGORITHM.md",
+    "GRAPHS/Untitled",
     "GRAPHS/BELLMAN-FORD ALGORITHM.md",
+    "GRAPHS/ACCOUNTS MERGE.md",
+    "GRAPHS/NO.OF OPERATIONS TO MAKE GRAPH CONNECTED.md",
+    "GRAPHS/KRUSKAL'S ALGORITHM (MST).md",
+    "GRAPHS/PRIMS ALGORITHM (MST).md",
+    "GRAPHS/CITY WITH LEAST NEI AT THRESHOLD DISTANCE.md",
     "BINARY TREES/MORRIS TRAVERSAL.md",
     "GRAPHS/NUMBER OF WAYS TO ARRIVE AT DESTINATION.md",
     "GRAPHS/DJIKSTRA (PRIORITY QUEUE).md",
@@ -208,12 +215,6 @@
     "GRAPHS/SURROUNDED REGIONS.md",
     "GRAPHS/DISTANCE OF NEAREST CELL HAVING '0'.md",
     "GRAPHS/NO.OF ISLANDS.md",
-    "GRAPHS/NO.OF PROVINCES.md",
-    "GRAPHS/KEYS AND ROOMS.md",
-    "BINARY SEARCH TREES/DELETE A NODE FROM BST.md",
-    "BINARY TREES/VERTICAL ORDER TRAVERSAL(2 COORDINATES).md",
-    "BINARY TREES/LEVEL ORDER TRAVERSAL.md",
-    "BINARY TREES/WIDTH OF BINARY TREE.md",
     "GRAPHS",
     "BINARY SEARCH TREES",
     "Untitled 1",
