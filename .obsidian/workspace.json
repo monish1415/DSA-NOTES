@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRAPHS/MAKING LARGE ISLAND.md",
+                "file": "GRAPHS/ARTICULATION POINT IN GRAPH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAKING LARGE ISLAND"
+              "title": "ARTICULATION POINT IN GRAPH"
             }
           }
         ]
@@ -188,24 +188,24 @@
   },
   "active": "fb04f109bef17333",
   "lastOpenFiles": [
+    "GRAPHS/BRIDGES IN GRAPH (TARJAN'S ALGO).md",
+    "GRAPHS/ARTICULATION POINT IN GRAPH.md",
+    "GRAPHS/CHEAPEST FLIGHT WITH K STOPS.md",
+    "GRAPHS/MOST STONES REMOVED FROM SAME ROW AND COL.md",
+    "GRAPHS/STRONGLY CONNECTED COMPS (KOSARAJU'S ALGO).md",
+    "GRAPHS/REDUCTANT CONNECTION II.md",
     "GRAPHS/NO.OF ISLANDS II.md",
     "GRAPHS/MAKING LARGE ISLAND.md",
-    "GRAPHS/NO.OF PROVINCES.md",
-    "GRAPHS/FLOYD-WARSHALL ALGORITHM.md",
-    "GRAPHS/Untitled",
-    "GRAPHS/BELLMAN-FORD ALGORITHM.md",
     "GRAPHS/ACCOUNTS MERGE.md",
     "GRAPHS/NO.OF OPERATIONS TO MAKE GRAPH CONNECTED.md",
     "GRAPHS/KRUSKAL'S ALGORITHM (MST).md",
     "GRAPHS/PRIMS ALGORITHM (MST).md",
+    "GRAPHS/PATH WITH MINIMUM EFFORT.md",
     "GRAPHS/CITY WITH LEAST NEI AT THRESHOLD DISTANCE.md",
-    "BINARY TREES/MORRIS TRAVERSAL.md",
+    "GRAPHS/FLOYD-WARSHALL ALGORITHM.md",
+    "GRAPHS/BELLMAN-FORD ALGORITHM.md",
     "GRAPHS/NUMBER OF WAYS TO ARRIVE AT DESTINATION.md",
     "GRAPHS/DJIKSTRA (PRIORITY QUEUE).md",
-    "GRAPHS/CHEAPEST FLIGHT WITH K STOPS.md",
-    "GRAPHS/PATH WITH MINIMUM EFFORT.md",
-    "BINARY TREES/CONSTRUCTION OF BINARY TREE.md",
-    "GRAPHS/ROTTING ORANGES.md",
     "GRAPHS/DJIKSTRA (TREESET).md",
     "GRAPHS/TOPOLOGICAL SORT(BFS) {KAHN'S ALGO}.md",
     "GRAPHS/TOPOLOGICAL SORT(DFS) {course schedule-II}.md",
@@ -214,7 +214,7 @@
     "GRAPHS/BIPARTITE GRAPH.md",
     "GRAPHS/SURROUNDED REGIONS.md",
     "GRAPHS/DISTANCE OF NEAREST CELL HAVING '0'.md",
-    "GRAPHS/NO.OF ISLANDS.md",
+    "GRAPHS/Untitled",
     "GRAPHS",
     "BINARY SEARCH TREES",
     "Untitled 1",
