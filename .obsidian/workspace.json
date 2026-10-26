@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRAPHS/ARTICULATION POINT IN GRAPH.md",
+                "file": "DP/MINIMUM PATH SUM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARTICULATION POINT IN GRAPH"
+              "title": "MINIMUM PATH SUM"
             }
           }
         ]
@@ -188,17 +188,25 @@
   },
   "active": "fb04f109bef17333",
   "lastOpenFiles": [
-    "GRAPHS/BRIDGES IN GRAPH (TARJAN'S ALGO).md",
+    "DP/UNIQUE PATHS IN A GRID.md",
+    "DP/HOUSE ROBBER.md",
+    "DP/CHERRY PICKUP II.md",
+    "DP/TRIANGLE.md",
+    "DP/MINIMUM PATH SUM.md",
+    "GRAPHS/KRUSKAL'S ALGORITHM (MST).md",
     "GRAPHS/ARTICULATION POINT IN GRAPH.md",
+    "DP",
+    "GRAPHS/BRIDGES IN GRAPH (TARJAN'S ALGO).md",
+    "GRAPHS/MAKING LARGE ISLAND.md",
+    "GRAPHS/DISTANCE OF NEAREST CELL HAVING '0'.md",
+    "GRAPHS/SURROUNDED REGIONS.md",
     "GRAPHS/CHEAPEST FLIGHT WITH K STOPS.md",
     "GRAPHS/MOST STONES REMOVED FROM SAME ROW AND COL.md",
     "GRAPHS/STRONGLY CONNECTED COMPS (KOSARAJU'S ALGO).md",
     "GRAPHS/REDUCTANT CONNECTION II.md",
     "GRAPHS/NO.OF ISLANDS II.md",
-    "GRAPHS/MAKING LARGE ISLAND.md",
     "GRAPHS/ACCOUNTS MERGE.md",
     "GRAPHS/NO.OF OPERATIONS TO MAKE GRAPH CONNECTED.md",
-    "GRAPHS/KRUSKAL'S ALGORITHM (MST).md",
     "GRAPHS/PRIMS ALGORITHM (MST).md",
     "GRAPHS/PATH WITH MINIMUM EFFORT.md",
     "GRAPHS/CITY WITH LEAST NEI AT THRESHOLD DISTANCE.md",
@@ -207,13 +215,6 @@
     "GRAPHS/NUMBER OF WAYS TO ARRIVE AT DESTINATION.md",
     "GRAPHS/DJIKSTRA (PRIORITY QUEUE).md",
     "GRAPHS/DJIKSTRA (TREESET).md",
-    "GRAPHS/TOPOLOGICAL SORT(BFS) {KAHN'S ALGO}.md",
-    "GRAPHS/TOPOLOGICAL SORT(DFS) {course schedule-II}.md",
-    "GRAPHS/DETECT CYCLE IN DIRECTED GRAPH.md",
-    "GRAPHS/EVENTUAL SAFE SPACES.md",
-    "GRAPHS/BIPARTITE GRAPH.md",
-    "GRAPHS/SURROUNDED REGIONS.md",
-    "GRAPHS/DISTANCE OF NEAREST CELL HAVING '0'.md",
     "GRAPHS/Untitled",
     "GRAPHS",
     "BINARY SEARCH TREES",

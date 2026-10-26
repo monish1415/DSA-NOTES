@@ -47,7 +47,7 @@ class Solution {
         for(int i=0;i<grid.length;i++){
             for(int j=0;j<grid.length;j++){ 
                 if(grid[i][j]==1) continue;             //traversing through all 
-                HashSet<Integer> set = new HashSet<>(); //all cells which are 0's
+                HashSet<Integer> set = new HashSet<>(); // cells which are 0's
                 for(int k=0;k<4;k++) {
                     int nr=dr[k]+i;
                     int nc=dc[k]+j;
